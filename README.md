@@ -12,7 +12,7 @@ B.S. Computer Information Systems from [Saint Leo University](https://www.saintl
 
 <h2 align="left">Most used programming languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravinacoy23)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravinacoy23)](https://github.com/gravinacoy23/github-readme-stats)
 
 <h2 align="left">Knowledge</h2>
 
