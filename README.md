@@ -1,6 +1,6 @@
 <h1 align="left">Juan Camilo Gravina Coy <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
 
-B.S. Computer Information Systems from [Saint Leo University](https://www.saintleo.edu/).
+B.S. Computer Information Systems from [Universidad Iberoamericana](https://www.ibero.edu.co/).
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-gravina-221279261/) profile.
 
